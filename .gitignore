@@ -4,3 +4,5 @@
 .Ruserdata
 
 /2_EcoEvoSimulations/SouthAmerica/output
+*.zip
+1_Diversification/data/mammals_occu.rds

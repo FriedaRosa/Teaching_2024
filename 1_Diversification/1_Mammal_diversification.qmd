@@ -183,6 +183,9 @@ For the sake of time, we will be using the data that I have prepared instead of 
 ```{r, occurrence-data}
 #| label: read-occurrence-data
 
+## Please download the file here. It was too big for GitHub:
+
+# https://drive.google.com/drive/folders/1AKmfRq-jVQ5Siwb-b17v-UIAvUArc1Da?usp=drive_link
 occur <- readRDS(occurrence_path)
 
 
